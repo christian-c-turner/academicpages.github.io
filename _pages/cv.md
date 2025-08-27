@@ -11,26 +11,17 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Sc. in Social Data Science, University of Copenhagen, 2025
+* B.A. in Economics, Eastern Washington University, 2019
+* B.A. in International Affairs, Eastern Washington University, 2019
 
-Work experience
+Experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
@@ -41,6 +32,9 @@ Skills
   * Sub-skill 2.3
 * Skill 3
 
+
+  
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -62,3 +56,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
