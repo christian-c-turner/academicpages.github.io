@@ -12,7 +12,7 @@ election. In user networks, I compare ego-networks to proportional mixing baseli
 demographic and ideological homophily, focusing on interactions involving ideologically right-
 leaning users. Results show evidence of ideological homophily, suggesting that even in high-
 trust, cooperative urban settings like Copenhagen, social life may reflect subtle but meaningful
-ideological divides. 1<br/><img src='images/small_event_2013-2014_Ideo_crop.png'>"
+ideological divides. <br/><img src='/images/small_event_2013-2014_Ideo_crop.png'>"
 collection: portfolio
 ---
 
